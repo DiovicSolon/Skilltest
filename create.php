@@ -13,7 +13,7 @@
         $depHead = $_POST['depHead'];
         $depTelNo = $_POST['depTelNo'];
        
-        
+      👍  
 
         $sql = " INSERT INTO departments ( depName, depHead, depTelNo) VALUES ( '$depName', '$depHead', '$depTelNo')";
         
